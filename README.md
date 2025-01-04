@@ -11,13 +11,13 @@ It is a Saas version of the main E school Product
 Clone the project
 
 ```bash
-  https://github.com/wrteam-sagar/eschool-saas.git
+  https://github.com/ankitmishra42/SpacECE-School-management-Admin.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd eschool-saas
+  cd SpacECE-School-management-Admin
 ```
 
 Install dependencies
